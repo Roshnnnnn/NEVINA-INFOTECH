@@ -16,19 +16,19 @@ const Header = () => {
           </h2>
 
           <div className="flex gap-1 mb-6 text-xs">
-            <button className="px-6 py-2 bg-yellow-400 rounded-full text-black">
+            <button className="px-4 py-2 bg-yellow-400 rounded-full text-black">
               All
             </button>
-            <button className="px-6 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
+            <button className="px-4 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
               Listening
             </button>
-            <button className="px-6 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
+            <button className="px-4 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
               Learning
             </button>
-            <button className="px-6 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
+            <button className="px-4 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
               Rehearsal
             </button>
-            <button className="px-6 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
+            <button className="px-4 py-2 text-gray-600 hover:bg-gray-200 rounded-full">
               Perform
             </button>
           </div>
